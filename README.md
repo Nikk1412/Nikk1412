@@ -16,36 +16,54 @@ With expertise in **cutting-edge AI models, full-stack development, and data-dri
 
 ---
 
+## 🛠️ Connect with Me
+<div align="left">
+  <a href="https://instagram.com/abhishek.jain_97" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-jain-08a92117a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://codesandbox.io/t/overview?workspace=e082ea4f-c05e-4277-bb19-3b3b3e10c4f3&" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
+  </a>
+  <a href="https://leetcode.com/1709abhishek" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
+  </a>
+</div>
+
+---
+
 ## 🛠️ Tech Stack & Expertise
-### 💻 **Software Development**
-- **Languages:** Python | JavaScript | TypeScript | Java | C++
-- **Web Technologies:** React.js | Next.js | Node.js | Flask | Django
-- **API Development:** RESTful APIs | FastAPI | GraphQL
-- **Mobile Development:** React Native | Flutter
-
-### 🤖 **Artificial Intelligence & Data Science**
-- **Machine Learning & Deep Learning:** TensorFlow | PyTorch | Scikit-Learn
-- **Computer Vision & NLP:** OpenCV | Hugging Face | Transformers
-- **Data Analytics & Visualization:** Pandas | NumPy | Matplotlib | Seaborn | Tableau
-- **AI Model Optimization & Deployment:** ONNX | TensorRT | Streamlit | Flask
-
-### ☁️ **Cloud, DevOps & Databases**
-- **Cloud Services:** AWS | Google Cloud | Azure
-- **CI/CD & Deployment:** Docker | Kubernetes | GitHub Actions
-- **Database Management:** MySQL | PostgreSQL | MongoDB | Firebase
-- **Version Control & Collaboration:** Git | GitHub | GitLab
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+</div>
 
 ---
 
 ## 🏆 Recognitions & Certifications
 🚀 **Google Cloud Certified - Data & AI**  
 🏆 **Winner - AI Hackathon 2024**  
-🎖 **Machine Learning Specialization - Coursera**  
-🥇 **Top 5 Finalist - National Coding Championship**
+🏅 **Machine Learning Specialization - Coursera**  
+🥇 **Top 5 Finalist - National Coding Championship**  
 
 ---
 
-## 💡 Why Work With Me?
+## 👀 Why Work With Me?
 ✔️ **Passionate Problem-Solver:** I thrive on solving complex challenges through AI & development.  
 ✔️ **Innovative Thinker:** Always exploring the latest in AI & software development to build futuristic solutions.  
 ✔️ **Result-Oriented Approach:** I prioritize efficiency, scalability, and seamless user experiences in all projects.  
@@ -54,10 +72,10 @@ With expertise in **cutting-edge AI models, full-stack development, and data-dri
 ---
 
 ## 🤝 Let's Connect & Collaborate!
-💌 **Email:** [nikhiludaymohite@gmail.com](mailto:nikhiludaymohite@gmail.com)  
-🐙 **GitHub:** [github.com/yourprofile](https://github.com/yourprofile)  
+📩 **Email:** [nikhiludaymohite@gmail.com](mailto:nikhiludaymohite@gmail.com)  
+💙 **GitHub:** [github.com/yourprofile](https://github.com/yourprofile)  
 🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
 
 ---
-✨ **Innovate. Build. Inspire. Let's shape the future together!** ✨
+🌟 **Innovate. Build. Inspire. Let's shape the future together!** 🌟
