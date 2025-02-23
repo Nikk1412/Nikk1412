@@ -10,9 +10,9 @@ Hello! I'm **Nikhil Mohite**, an innovative **AI Developer** and **Data Science 
 With expertise in **cutting-edge AI models, full-stack development, and data-driven strategies**, I love crafting applications that redefine user experiences. Always exploring, always innovating! 
 
 📩 **Email:** [nikhiludaymohite@gmail.com](mailto:nikhiludaymohite@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🐙 **GitHub:** [github.com/yourprofile](https://github.com/yourprofile)  
-🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
+🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/nikhil-mohite1412/)  
+🐙 **GitHub:** [github.com/yourprofile](https://github.com/Nikk1412/Nikk1412)
+🌐 **Portfolio:** 
 
 ---
 
@@ -59,7 +59,8 @@ With expertise in **cutting-edge AI models, full-stack development, and data-dri
 🚀 **Google Cloud Certified - Data & AI**  
 🏆 **Winner - AI Hackathon 2024**  
 🏅 **Machine Learning Specialization - Coursera**  
-🥇 **Top 5 Finalist - National Coding Championship**  
+🏅 **Deep Learning  Specialization - Coursera**  
+  
 
 ---
 
@@ -73,9 +74,9 @@ With expertise in **cutting-edge AI models, full-stack development, and data-dri
 
 ## 🤝 Let's Connect & Collaborate!
 📩 **Email:** [nikhiludaymohite@gmail.com](mailto:nikhiludaymohite@gmail.com)  
-💙 **GitHub:** [github.com/yourprofile](https://github.com/yourprofile)  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
+💙 **GitHub:** [github.com/yourprofile](https://github.com/Nikk1412/)  
+🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/nikhil-mohite1412/)  
+🌐 **Portfolio:** 
 
 ---
 🌟 **Innovate. Build. Inspire. Let's shape the future together!** 🌟
