@@ -18,19 +18,19 @@ With expertise in **cutting-edge AI models, full-stack development, and data-dri
 
 ## 🛠️ Connect with Me
 <div align="left">
-  <a href="https://instagram.com/abhishek.jain_97" target="_blank">
+  <a href="https://instagram.com/n.i.k.k.1412/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/abhishek-jain-08a92117a/" target="_blank">
+  <a href="https://www.linkedin.com/in/nikhil-mohite1412//" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://codesandbox.io/t/overview?workspace=e082ea4f-c05e-4277-bb19-3b3b3e10c4f3&" target="_blank">
+<!--   <a href="https://codesandbox.io/t/overview?workspace=e082ea4f-c05e-4277-bb19-3b3b3e10c4f3&" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
-  </a>
-  <a href="https://leetcode.com/1709abhishek" target="_blank">
+  </a> -->
+<!--   <a href="https://leetcode.com/1709abhishek" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
   </a>
-</div>
+</div> -->
 
 ---
 
